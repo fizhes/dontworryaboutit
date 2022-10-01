@@ -3,22 +3,27 @@
 const us = {
   // us: 'https://lh3.googleusercontent.com/_7dwpiw5wxUrq5J_u6KUBz8ZsdUmZcC0jyfDhvO-__VrGfz7C_0kQ06m_LfcEa6Sw-v28sOU4aq2LKC7MpgjJCFJQbre26C_25QswnnfcMxIVaukq5ZYNNyrN6xEIvE-XGTBYAFtFBjHR9tEUiyS_0kJ1r_CP_82Ckz6Z0eDObxYto6paxwjJb7LOasZxbkq1sMvsohB7gO5TKdvPomCwRVuu5EkBGfysrFawcEA_7aQP_jSH-SjNsCg5HyAVN0vjFjz37bPfNq8tmRfSuRVFjERs5nKmctz585pAelj-JI4ObgSg3dcSSebMe6hNUka1i1gS2WIku8ChfTqhjBM58puT5jkrpdg5ad9FsatFh0oPYsK0E4a-cottwC-xfjGirSrixw9mt2ByWwTe3BQJhbHQwkl59kvlGMmmKIlHYT7DxPjOCD1c1XuMzQclJ6iM44ACXzejBWSvomVURYITEMuNHYDHwx05BhF4OG3902cwcduo532jhk-KUOObtaF5BraZCc0ELh3NBSGywYw5tCbVyaOxMVVFYcQUDUgXi9nVIoBXbz7AxDLN-B-MXckOaCelUGgzPZDoLcMnEGSXgBRDOflfFNGEFRNOh6Tmk952s4pcYogKByKWPJQ4WyWdu4A7ps09NpOEcu7MADZUuPaunkc81ujtI4xl5Al8PoH18fBJ0L6HWYmqBOhhuI0T0dmuknIrSlHiGehphsJlSnb8B7tWdORiGI-VqYqGLzLc49Cq1MzoNUHa1uMsrZtl8D91Kr702TFiwuIHNXkcmKK_gtTF2Z_DJ7CQHT_SLKO-farHaGRKA-exW_uaoJoR-_RbVEQSv5tP_2JHybDyJtK83KnHbTzjwlGnYGGrd3TJgZJFpD6KPVsexe8f9-vvwtEgjsY5wCGB79F7leVQo-nBuTNthcH9hNDk52AlyW4zH6f_vVaAj79pNjqvXDJzjhR40hH0wAh1PlcfVzr1olfEB0RtNwWk5Qh_pwuvpL5xplqhA=w1919-h960-no?authuser=0',
   us: 'https://i.postimg.cc/51dMfjPc/us.png',
+  usm: 'https://i.postimg.cc/wxVrVx8F/us.png',
 };
 const britain = {
   // uk: 'https://lh3.googleusercontent.com/ckyXcDobsa3qPmfP0MlEd-loyB0TNJjrt3WD-J79oN2R-mPnE_TKuEXVtd6fFeKKycZ_BWzv6c8phay8_iGd4-YFxaJfXLBXSjYYgfqJxzCut0C-MGo1S7POaZ2-HAwK-oq8mrFSVAPtIsS1xQ5xsPU9gqs_Av68hRmwdOsRsjuDgZjy4ThrY1mQ5aOxBXkRan4hVv2EQRjtd1gk4-eCmi82dXHVDT0llB4yRB8A9PcTlV-sHelB4A6zCIlzGrz_cQar49YTREjOg0BiXJzH9_qiq6TTsv9NhvzS4MqWDTpVU6AjhhykvVVv3orV6VJRwazfBGyRyBu6lIixgKoJXOSEnUOz-p3RrcnzqEs6RZlESGFHjadlKSLaP5i5cyGcHuUku06_goQVyTQXRpsiOJAGQ73z2hu0e8Sx1rVqmvt8gkOirVJQPZb-zPxiDLF91rg9YLLe6nFqBo1mn8yXrEGMwPURYd3FJSmskD0muaoVm_LacdwFhHUg1dF1YN9DYS0fPx_mQMZWPGFbkWjZS6qyQccMISW-LYPpPTUt1wTTvCmTfCiNLelqdYQCm8l8gIaP6UN8_RwPGBx33akqRTP7sTYEDjkVjF4NP-I6jUM8de2tQ9KZnn6Inh5lX5krMYk1mu8ov5ooNhaYaTNLcnmnC1PgsJBVwtlpSybHhfuFv5sfPUZxdZ1TFHquWi_tOUSJMNvbgYMd2IgU3TQkynSQQ2w-r56pdyJYP1jbAM88_YjMzPR21UDP7d2ioQYQploCO44DfCaikZrmhjXiDoHeWyILxquRPe3xoTS3MuCHh5rp9859kpo22GueLlXKJgq5OorFK0ECJPUb_KjeIRhb41hn4FfKDOjThLOgrU0dpZClFghv7AqrNmO5mH4c-MlFyo_EkzWmsv3Mm64XeGkw1fRK-ti-4LaIp5el8V4Eo3JI0TYkvkQM2t-1wdo5LIndSTr985cC_fzXkcKQUiLHk1yWZ2nYv_d4GGweUr9AQlr4kA=w1919-h960-no?authuser=0',
   uk: 'https://i.postimg.cc/4G8JZXDs/uk-rn.png',
+  ukm: 'https://i.postimg.cc/449CQR4S/uk-rn.png',
 };
 const france = {
   // rep: 'https://lh3.googleusercontent.com/4cFu-MhVzqjmYSM8pr6Yzauu7tc4OttzX1TpOLv4XGWoEeUOVgRPE-sMxd1NgA_dv_qJoCVGtT-mn4cf9hH-5N3xGO52OqHR1xaXoBmOONHpMMLElubr9NzGaqDByr1y11IhKscigJPMJn8kaWeI4gDGab8GVH5xn-SB3TolTeB2SFOMNbOhnb61jnI9kXzJcC4MkYu3Hv6xJlaY7_fqtBdQA6a_bAbdT8wkhQYk3GCmMATTjhWdqFF4fD4nGGyPV_Ko1QCkjhZfjXre_cQ08O0lZXo9b5aXklAwhA3GAPQ4xqTW9oErTk1-NrZ7IuTDCqQf_3QrT0P3YUCoYGjylR1LGB7PGGeEag_maKUQt0k0g3FRyu7XshNOy4O3iYxsQJIJfthRra0aJ9UKeNxJ18e1CNQ32359OqUZWkmV8eiUTTM9fWa4jvDFQTsVjxPO69RjAqqxSoooNVY1Sd47QIJ_Qs0D2NI90zEcVCDt4NonLQXmuACHyFp8-64dKxq86tGgslcCPKodTBxfNa1NYVpBEFwvUQxwJzEWUUlry-WeXPpkl3tCUqExbgcLXjD1VnKbUGTcAUX__gXG8ILOag9Pma6a7D2x61JzGvkQD-nt46venECvMze8y3iFJXmOGMZi3eMSNv2zC11hBI1HCV2kV6MuPSffiCu6KB60MIZbtGDFfM5p-SAHVOdndyk09of_I9g5aKvoaVBbAC_YzlMCSqm6Cjo6FVckd49lzSnP_1Z2LkLVs75on70N_gobDsSu8i98OwGhYTJedZuqdZ5eKpDf3RD6vCn-vWGMj7s9F_daj2Zm8AOMx4RdjKF86JaSJ3g=w1919-h960-no?authuser=0',
-  rep: 'https://i.postimg.cc/J701Z2Sy/france.png'
+  rep: 'https://i.postimg.cc/J701Z2Sy/france.png',
+  repm: 'https://i.postimg.cc/3WM5Hn87/france.png',
 };
 const netherlands = {
   // kd: 'https://lh3.googleusercontent.com/6hmxO3mYO-4VWNa0e1jhpssI2xeMnfWwn_IVPxPYCCht2jWr8Wj7TF0ZMD1kOKjXSg_Kk4CdcFx6tp4HMmgKiHpzWJF2rsSDFwYTzFSd6hq32yilwF6dT8p-diiCVDQkLONZ-nE8JS5QT9tCc8839dxjUP2JsPyl5X8by3Wc670QyWtr3a5mfaVHGXe82VBpap5tI-Od7JA3oFpscjTKX2xYU6D0g9m-JW3nfa3MvqDccNeeS5FhcEffPk-q8BJ_gdHNibBEuICrUnWCIYDPzUCmrOCchCLbqCmKA0F7lGVUtywZrTlKJSz0ZB-x-laCwBWPRTTQSfl-h5_bS-Io-IoFSa5NnMQ08fh2_reKe1BB_KOVJ3oZqDwby-RPA2JmYnT_ajEII02J-NlDGq8VxfthpU25pcjpCsalyFzGIxXYZjiIWcMjU3ytVWNawHvS0m4IAGPHDUGFzOao-4qv0R44RxUwtgsGcuIA4nzKiDqnHpmSeqqhFUeF3tZGhPVI0PveEWwfKKVk02Dg66H8ikEknCldRslG56EpgWxeEOfA9Z6FiQkEKjqoTYDBE7UE2JaUMTCdM6Ca855iWppFpk0m8S8T_dcw_-WPghtYGg2TtoSU6esmK_n53eaSbMct-PABdx7HsNUNdc3LwvzFJ3ureAKyBsLsZAbglEhWgFQW1iB9mjnn-nzxq1veZakbURmlLp6K1hbZvgqPdZ0JMwlEv9Qlb_E_aDddTZkAulQYVigP_eIMealqjpFb38cmEvB4q1s5hcW9giJMrlDOlRXd4fgxkvBZSHqKkHHCG4C0oQB8gvkiCHZxZZkhPX47o3Y0o1t1ila_b890NrlKwNg_5hKoHYNdfWo5v0XSgrsPCKK0vr0gPWf9S43aMQJ6PwsD2ghbu3wmjBaTcrl7gfRN8BJdnILXcwqYAwyVEnDUrbm7iJrGBP5-4A1njv4xHztgV6bZGAGl6p_aeKc7M6hEKLjT4uRa-CBb98GqoOf4tKA4Jg=w1919-h960-no?authuser=0',
   kd: 'https://i.postimg.cc/p2D02VGC/netherlands.png',
+  kdm: 'https://i.postimg.cc/C1xC70Vn/netherlands.png',
 };
 const denmark = {
   // kd: 'https://lh3.googleusercontent.com/yZBB4cung3Npuf_pu1CwjCr5n01jlLc2sQuZg3iocYxqO72N0lZd_P7k8GsKoF5EGtJBgb8Oz-lqxzITKvirquGxTglL8jJroyfjn9CjxX3FGhvWpnwXeXdpopOlPg4csFGPo2CWbw=w2400',
   kd: 'https://i.postimg.cc/6wMNJKmn/denmark.png',
+  kdm: 'https://i.postimg.cc/Dy4NL9Fw/denmark.png',
 };
 
 let img;
@@ -77,7 +82,7 @@ function keyReleased() {
   }
 }
 
-let rad = 200, det = 128;
+let rad = 200, det = 16;
 
 
 const ldm = document.querySelector('#ldm');
@@ -91,31 +96,32 @@ const which = document.querySelector('#which');
 const legend = document.querySelector('#key');
 which.oninput = function() {
   let url;
+  const m = mobile();
   
   switch(which.value) {
     case 'us':
       rot.x = -0.5; rot.y = 5.5;
-      url = us.us;
+      url = m ? us.usm : us.us;
       legend.innerHTML = '<span style="color:#B200FF">\u2588</span><span style="color:white"> States & District of Columbia</span><br/><span style="color:#00FF90">\u2588</span><span style="color:white"> Incorporated, Unorganized</span><br/><span style="color:#FF6A00">\u2588</span><span style="color:white"> Unincorporated, Commonwealth</span><br/><span style="color:#00FFFF">\u2588</span><span style="color:white"> Unincorporated, Organized</span><br/><span style="color:#FFD800">\u2588</span><span style="color:white"> Unincorporated, Unorganized</span><br/><span style="color:#FF0000">\u2588</span><span style="color:white"> Claimed but Disputed</span>';
       break;
     case 'uk':
       rot.x = -0.72; rot.y = 9.35;
-      url = britain.uk;
+      url = m ? britain.ukm : britain.uk;
       legend.innerHTML = '<span style="color:#B200FF">\u2588</span><span style="color:white"> Constituent Countries</span><br/><span style="color:#FFD800">\u2588</span><span style="color:white"> Crown Dependencies</span><br/><span style="color:#00FF90">\u2588</span><span style="color:white"> Overseas Territories</span><br/><span style="color:#FF0000">\u2588</span><span style="color:white"> Nobody Cares About This</span>';
       break;
     case 'fr':
       rot.x = -0.385; rot.y = 10;
-      url = france.rep;
+      url = m ? france.repm : france.rep;
       legend.innerHTML = '<span style="color:#B200FF">\u2588</span><span style="color:white"> Metropolitan France</span><br/><span style="color:#00FF90">\u2588</span><span style="color:white"> Overseas Regions/Departments</span><br/><span style="color:#00FFFF">\u2588</span><span style="color:white"> Overseas Collectivities</span><br/><span style="color:#FFD800">\u2588</span><span style="color:white"> Sui Generis Collectivity</span><br/><span style="color:#FF0000">\u2588</span><span style="color:white"> Overseas Territory</span><br/><span style="color:#FF6A00">\u2588</span><span style="color:white"> Overseas State Private Property</span>';
       break;
     case 'kon':
       rot.x = -0.385; rot.y = 10;
-      url = netherlands.kd;
+      url = m ? netherlands.kdm : netherlands.kd;
       legend.innerHTML = '<span style="color:#B200FF">\u2588</span><span style="color:white"> Netherlands (European provinces<br/>& Special Municipalities)</span><br/><span style="color:#00FF90">\u2588</span><span style="color:white"> Other Constituent Countries</span><br/><span style="color:#FF0000">\u25CB</span><span style="color:white"> Component of Dutch Caribbean</span><br/><span style="color:#FFD800">\u25CB</span><span style="color:white"> Component of Caribbean Netherlands</span>';
       break;
     case 'kod':
       rot.x = -0.385; rot.y = 10;
-      url = denmark.kd;
+      url = m ? denmark.kdm : denmark.kd;
       legend.innerHTML = '<span style="color:#B200FF">\u2588</span><span style="color:white"> Metropolitan Denmark (Denmark Proper)</span><br/><span style="color:#00FF90">\u2588</span><span style="color:white"> Autonomous Constituent Countries</span><br/><span style="color:#FF0000">\u2588</span><span style="color:white"> KoD Claims Some Arctic<br/>Ridges But I Don\'t Care</span>';
       break;
   }
@@ -133,7 +139,7 @@ function mobile() {
 function setup() {
   const _s = min(800, window.innerWidth, window.innerHeight);
   createCanvas(_s, _s, WEBGL);
-  img = loadImage(us.us);
+  img = loadImage(mobile() ? us.usm : us.us);
   rot = createVector(-0.6, 5.205, 0);
   
   if(mobile()) {
@@ -173,7 +179,7 @@ function draw() {
   
   noStroke();
   fill(255);
-  // texture(img);
+  texture(img);
   sphere(rad, det, det);
   
   pop();
