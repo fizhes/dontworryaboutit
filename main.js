@@ -136,11 +136,11 @@ function setup() {
   img = loadImage(us.us);
   rot = createVector(-0.6, 5.205, 0);
   
-  if(mobile()) {
-    let cam = createEasyCam();
-    cam.setPanScale(0);
-    cam.setRotationScale(0.0025);
-  }
+  // if(mobile()) {
+  //   let cam = createEasyCam();
+  //   cam.setPanScale(0);
+  //   cam.setRotationScale(0.0025);
+  // }
   
   document.oncontextmenu = () => false;
   
@@ -173,7 +173,7 @@ function draw() {
   
   noStroke();
   fill(255);
-  texture(img);
+  // texture(img);
   sphere(rad, det, det);
   
   pop();
