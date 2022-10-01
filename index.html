@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/addons/p5.sound.min.js"></script>
+    <meta charset="utf-8" />
+    
+    <style>
+      body {
+        overflow: hidden;
+      }
+    </style>
+
+    
+
+  </head>
+  <body style="background-color:black;">
+    <input type="checkbox" id="ldm" name="ldm" checked="true">
+    <label for="ldm" style="color:white">Lower Quality Sphere (if it's too slow)</label>
+    
+    <br/>
+    
+    <select id="which">
+      <option value="us">US Currently</option> 
+      <option value="uk">UK Currently</option> 
+      <!-- <option value="cw">Commonwealth Realms Currently</option>  
+      <option value="fcw">Every CW Realm Ever</option>  
+      <option value="britain">Every Part of the British Empire Ever</option> -->
+      <option value="fr">French Republic Currently</option>  
+      <!-- <option value="fe1">First French Empire (1804-1814)</option>
+      <option value="fe2">Second French Empire (1852-1872)</option> 
+      <option value="fce1">First French Colonial Empire (1524-1814)</option>
+      <option value="fce2">Second French Colonial Empire (1830-1980)</option>   -->
+      <option value="kon">Kingdom of the Netherlands Currently</option>
+      <option value="kod">Kingdom of Denmark Currently</option>   
+    </select>
+    
+    <div style="font-size: 2.22vh;" id="key"/>
+    
+    <script src="https://cdn.jsdelivr.net/gh/freshfork/p5.EasyCam@1.0.10/p5.easycam.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
