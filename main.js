@@ -173,7 +173,7 @@ function draw() {
   
   noStroke();
   fill(255);
-  texture(img);
+  // texture(img);
   sphere(rad, det, det);
   
   pop();
